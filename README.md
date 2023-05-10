@@ -4,3 +4,4 @@
 개발 환경 : Windows 10, Unity, Visual Studio  
 개발 인원 : 2명  
 담당 업무 : 팀장, 게임 기획, UI, 클라이언트 개발  
+플레이 영상 : https://youtu.be/pGJeTgv3ISU  
